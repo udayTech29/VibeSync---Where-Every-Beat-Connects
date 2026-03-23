@@ -1,7 +1,7 @@
 VibeSync 🎧
 ### Where Every Beat Connects
 
-🔗 Live Demo: https://udayTech29.github.io/vibesync/
+🔗 Live Demo: https://udayTech29.github.io/vibesync---Where-Every-Beat-Connects/
 
 ## 📌 Project Description
 
