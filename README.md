@@ -1,24 +1,30 @@
-🎵 VibeSync – Music App UI & Logo Design
+VibeSync 🎧
+### Where Every Beat Connects
 
-VibeSync is a modern music app UI concept inspired by popular streaming platforms, designed with a clean interface and smooth user experience. This project showcases a professional  design along with a sleek UI concept for a next-gen music streaming application.
+🔗 Live Demo: https://udayTech29.github.io/vibesync/
 
-🌟 Features
+## 📌 Project Description
 
-. 🎧 Modern and minimal UI design
+VibeSync is a modern music streaming UI inspired by Spotify. 
 
-. 🎨 Custom-designed professional logo
+This project is created as a CSS Major Project to demonstrate responsive design and UI development.
 
-. 📱 Responsive layout (mobile-first approach)
+## 🚀 Features
 
-. 🎵 Music player interface (inspired by real apps)
+- Responsive design
 
-. ⚡ Smooth and clean user experience
+- Music player UI
 
-🛠️ Tech Stack
+- Sidebar navigation
 
-. HTML5
+- Playlist section
 
-. CSS3
+## 🛠️ Tech Stack
+
+- HTML
+
+- CSS
+
 
 💡 Inspiration
 
